@@ -2,8 +2,7 @@
 
 ---
 
-Starting my frontend developer journey in Nov 2022,currently working at a tech agency.
-Born and raised in Taiwan 🇹🇼
+Starting my frontend developer journey in Nov 2022,currently working at a tech agency, born and raised in Taiwan 🇹🇼
 
 My side project: 
 - [a11y village Medium](https://medium.com/@accessdiversers)
