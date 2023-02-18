@@ -1,10 +1,8 @@
 ### Hi, I'm Andrea 👋
-
 ---
+Starting my frontend developer journey in Nov 2022,currently working at a tech agency, born and raised in Taiwan.
 
-Starting my frontend developer journey in Nov 2022,currently working at a tech agency, born and raised in Taiwan 🇹🇼
-
-My side project: 
+**My side project:** 
 
 A small group of people who are dedicated our free time to produce contents regarding accessibility.
 - [a11y village Medium](https://medium.com/@accessdiversers)
