@@ -2,7 +2,9 @@
 ---
 Starting my frontend developer journey in Nov 2022,currently working at a tech agency, born and raised in Taiwan.
 
-**My side project:** 
+**Side projects and volunteering:**
+
+**A11y village**
 
 A small group of people who are dedicated our free time to produce contents regarding accessibility.
 - [a11y village Medium](https://medium.com/@accessdiversers)
@@ -12,7 +14,17 @@ A small group of people who are dedicated our free time to produce contents rega
 ![Group 346](https://user-images.githubusercontent.com/84858081/219078363-d1438cfa-db99-480b-aa76-646a0fd7e10a.png)
 
 
+**S.I.T Industry - Brand Website**
 
+My primary task is to redesign the brand website while collaborating with a team from Germany to implement Fault diagnostic systems using AI.
+- Brand website (WIP)
+<img width="1435" alt="Screenshot 2023-05-01 at 9 49 16 PM" src="https://user-images.githubusercontent.com/84858081/235462189-2b1b1d14-fea7-4bb0-a380-b65900115eb0.png">
+
+
+**Pyladies**
+
+Maintain and redesign / refactor website.
+- [Pyladies Website](https://tw.pyladies.com/)
 
 <!--
 **AndreaFan123/AndreaFan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
