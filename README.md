@@ -6,7 +6,7 @@ Starting my frontend developer journey in Nov 2022,currently working at a tech a
 
 **A11y village**
 
-We're a group of individuals who devote our free time to producing accessible content.
+We're a group of individuals who devote our free time to producing accessibility contents in Traditional Chinese.
 I'm responsible for managing our social media accounts as well as translating articles about accessibility.
 
 - [a11y village Medium](https://medium.com/@accessdiversers)
