@@ -20,7 +20,7 @@ I'm responsible for managing our social media accounts as well as translating ar
 **S.I.T Industry - Brand Website**
 
 My primary task is to redesign the brand website while collaborating with a team from Germany to implement Fault diagnostic systems using AI.
-- Brand website (WIP)
+- [Brand website v.1](http://sit-technology.com/)
 <!-- <img width="1435" alt="Screenshot 2023-05-01 at 9 49 16 PM" src="https://user-images.githubusercontent.com/84858081/235462189-2b1b1d14-fea7-4bb0-a380-b65900115eb0.png"> -->
 
 ---
