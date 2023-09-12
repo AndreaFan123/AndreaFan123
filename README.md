@@ -27,7 +27,7 @@ I'm responsible for managing our social media accounts as well as translating ar
 
 - [a11y village Medium](https://medium.com/@accessdiversers)
 - [a11y village Fan page](https://www.facebook.com/accessdiversers/)
-- [a11y Official Website]([https://www.101.a11yvillage.twvip.org/](https://www.101.a11yvillage.twvip.org/en))
+- [a11y Official Website](https://www.101.a11yvillage.twvip.org/en)
 
 <!-- ![Group 346](https://user-images.githubusercontent.com/84858081/219078363-d1438cfa-db99-480b-aa76-646a0fd7e10a.png) -->
 <!--
