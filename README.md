@@ -17,7 +17,7 @@ Maintain and redesign / refactor website.
 We're a group of individuals who devote our free time to producing accessibility contents in Traditional Chinese.
 I'm responsible for managing our social media accounts as well as translating articles about accessibility.
 
-- [a11y Official Website](https://www.101.a11yvillage.twvip.org/en)
+- [a11y Official Website](https://a11yvillage.coseeing.org/en)
 - [a11y village Medium](https://medium.com/@accessdiversers)
 - [a11y village Fan page](https://www.facebook.com/accessdiversers/)
 - [a11y village IG](https://www.instagram.com/a11yvillage/)
