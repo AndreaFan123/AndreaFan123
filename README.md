@@ -1,7 +1,7 @@
 ### Hi, I'm Andrea 👋
 ---
 Starting my frontend developer journey in Nov 2022, born and raised in Taiwan.
-- 🌱 I’m currently learning more about advanced React topic.
+- 🌱 I’m currently learning more about advanced React topics.
 
 **Side projects and volunteering:**
 
