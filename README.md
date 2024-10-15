@@ -8,8 +8,7 @@ Starting my frontend developer journey in Nov 2022, born and raised in Taiwan.
 
 **Pyladies**
 
-Maintain and redesign / refactor website.
-- [Pyladies Website](https://tw.pyladies.com/)
+🚧 WIP: New website
 
 ---
 
