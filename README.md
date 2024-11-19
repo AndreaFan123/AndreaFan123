@@ -2,7 +2,6 @@
 ---
 Starting my frontend developer journey in Nov 2022, born and raised in Taiwan.
 - 🌱 I’m currently learning more about advanced React topics and building small projects for fun :)
-- 📓 Reading and practicing DS and algorithems.
 
 **Side projects and volunteering:**
 
