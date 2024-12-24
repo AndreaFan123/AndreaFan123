@@ -1,7 +1,8 @@
 ### Hi, I'm Andrea 👋
 ---
 Starting my frontend developer journey in Nov 2022, born and raised in Taiwan.
-- 🌱 I’m currently learning more about advanced React topics and building small projects for fun :)
+- Building new website for PyLadies
+- Learning design patterns and some advanced topics.
 
 **Side projects and volunteering:**
 
