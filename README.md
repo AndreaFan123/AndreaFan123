@@ -6,8 +6,9 @@ Starting my frontend developer journey in Nov 2022, born and raised in Taiwan.
 
 **Side projects and volunteering:**
 
-**Pyladies**
+**Pyladies (An international mentorship group focused on helping women become active participants and leaders in the Python community.)**
+- [Website](https://tw.pyladies.com/)
+- Maintaining the website, including refactoring and feature enhancements.
 
-https://tw.pyladies.com/
 
 
