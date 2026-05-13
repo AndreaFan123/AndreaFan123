@@ -11,11 +11,12 @@ Starting my frontend developer journey in Nov 2022, born and raised in Taiwan.
 - Maintaining the website, including refactoring and feature enhancements.
 - [PyLadies Website](https://tw.pyladies.com/)
 
+**FOXG1 Taiwan Official Website (WIP)**
+
 #### Side projects
 **MIT - The Missing Semester of Your CS Education 2026**
 - Traditional Chinese translation
 - [Course Link](https://missing-semester-tw.github.io/)
 - [Repo](https://github.com/missing-semester-tw)
-
 
 
