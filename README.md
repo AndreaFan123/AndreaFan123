@@ -12,6 +12,9 @@ Starting my frontend developer journey in Nov 2022, born and raised in Taiwan.
 **FOXG1 Taiwan Official Website (WIP)**
 
 ### Side projects
+**Khun-Sin Taiwan cetacean stranding reporting & data**
+- [Visit Khun-Sin](https://www.khun-sin.com/)
+  
 **MIT - The Missing Semester of Your CS Education 2026**
 - Traditional Chinese translation
 - [Course Link](https://missing-semester-tw.github.io/)
